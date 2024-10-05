@@ -1,0 +1,58 @@
+Privacy Policy
+
+Effective Date: October 5, 2024
+
+1. Introduction
+
+This Privacy Policy describes how we collect, use, and protect information obtained from interactions with our Instagram business account through our automated service. This service classifies incoming direct messages (DMs) and may generate responses based on user requests. By using this service, you agree to the terms described here.
+
+2. Information Collection and Use
+
+The Doodlebug Message Manager does not store any user DMs. Incoming DMs are automatically classified to determine whether they are requests for image generation. If classified as an image generation request, the service interacts with the doodlebug.me image generation service to create an image and return it to the user. The Doodlebug Message Manager does not store or use messages for any other purposes.
+
+3. Sharing of Information
+
+We do not share, sell, or disclose any user information. The content of DMs is used solely for generating appropriate responses, such as providing requested images, and nothing is retained or transmitted to third parties for purposes beyond the image generation.
+
+4. Security
+
+We take the security of user data very seriously. Although no data is stored, the service processes messages securely and ensures that all communications are encrypted through Instagram's platform.
+
+5. Changes to This Privacy Policy
+
+We may update this Privacy Policy occasionally to reflect any changes in our practices. Any changes will be effective immediately upon posting, and continued use of our services implies acceptance of the updated policy.
+
+6. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us via our Instagram business account or at support@doodlebug.me.
+
+
+
+
+Terms of Service
+
+Effective Date: October 5, 2024
+
+1. Acceptance of Terms
+
+By interacting with our Instagram business account and using our automated services, you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use our services.
+
+2. Description of Service
+
+This service classifies incoming direct messages to determine whether they are requests for image generation. If applicable, it uses doodlebug.me to generate images based on the user's message and returns them. This service is intended for informational and entertainment purposes only.
+
+3. User Responsibilities
+
+Users are responsible for the content of their messages. You agree not to use this service for illegal, harmful, or offensive purposes. We reserve the right to discontinue interaction with users who violate these terms.
+
+4. Limitation of Liability
+
+We are not liable for any damages arising from the use or inability to use our services. All content provided is on an "as is" basis, and we make no warranties regarding its accuracy or completeness.
+
+5. Modifications
+
+We reserve the right to modify these Terms of Service at any time. Any changes will be effective immediately upon posting. Continued use of the service indicates acceptance of the updated terms.
+
+6. Contact Information
+
+For any questions regarding these Terms of Service, please contact us via our Instagram business account or at support@doodlebug.me.
